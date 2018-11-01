@@ -1,5 +1,21 @@
 # Autonomous-flight-of-the-drone-AR.Drone-1.0
 
+## Prerequisites
+We recommend to use [Anaconda 3](https://www.anaconda.com/download/) platform. 
+- [Keras](https://anaconda.org/conda-forge/keras) (Deep learning library)
+
+- [scikit-learn](https://anaconda.org/anaconda/scikit-learn) (Machine learning library)
+
+- [h5py](https://anaconda.org/anaconda/h5py)
+
+- [gensim](https://anaconda.org/anaconda/h5py) 
+
+- [pysam](https://anaconda.org/bioconda/pysam) >= 0.9.1.4
+
+- [pybigwig](https://anaconda.org/bioconda/pybigwig)
+
+# Description of the code:
+
 The code allows a manual override of the Drone control at any time. Press any steering
 key to switch to manual mode. In the following table, we present the different actions that
 can be performed by the drone and each corresponding key.
