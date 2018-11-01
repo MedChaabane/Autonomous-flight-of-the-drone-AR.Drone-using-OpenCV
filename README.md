@@ -1,6 +1,5 @@
 # Autonomous-flight-of-the-drone-AR.Drone-1.0
 
-## [Documentation of the code](https://github.com/MohamedChaabane2/Autonomous-flight-of-the-drone-AR.Drone-1.0/blob/master/Documentation.pdf)
 
 ## Prerequisites
 
@@ -65,3 +64,5 @@ tracking. It should be noted that varying lighting conditions will influence the
 of the tracking. As an alternative approach, the brightness channel can be used instead of
 the hue channel. In this case, the drone can follow a very bright object, e.g. a flashlight.
 This approach is very robust in dark environments. In brighter environments, an opaque filter can be applied to the camera to increase the tracking robustness.
+
+## [More detailed documentation of the code](https://github.com/MohamedChaabane2/Autonomous-flight-of-the-drone-AR.Drone-1.0/blob/master/Documentation.pdf)
