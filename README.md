@@ -38,6 +38,7 @@ or right to position the object in the center again. The size of the initial obj
 box is saved by the program. If the object is coming closer to the camera, the drone will
 fly backwards until the the object has the initial distance from the drone again. If the
 object is moved away, the drone will fly forward until the initial distance is reached.
+
 This approach uses two different detection stages. The Drone will first search for a circle
 in its field of view, using the HoughCircle detection algorithm from OpenCV. If a circle is
 found and remains roughly at the same spot for a given time, the tracking stage is initialized.
