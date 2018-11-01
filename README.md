@@ -2,8 +2,6 @@
 
 ## Prerequisites
 
-- [libardrone](https://github.com/venthur/python-ardrone/blob/master/libardrone.py) (Python library which contains functions to control drones)
-
 - [opencv-python](https://pypi.org/project/opencv-python/) (Computer vision library)
 
 - [pygame](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame) 
