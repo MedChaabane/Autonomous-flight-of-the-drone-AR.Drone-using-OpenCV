@@ -1,18 +1,14 @@
 # Autonomous-flight-of-the-drone-AR.Drone-1.0
 
 ## Prerequisites
-We recommend to use [Anaconda 3](https://www.anaconda.com/download/) platform. 
-- [Keras](https://anaconda.org/conda-forge/keras) (Deep learning library)
 
-- [scikit-learn](https://anaconda.org/anaconda/scikit-learn) (Machine learning library)
+- [libardrone](https://github.com/venthur/python-ardrone/blob/master/libardrone.py) (Python library which contains functions to control drones)
 
-- [h5py](https://anaconda.org/anaconda/h5py)
+- [opencv-python](https://pypi.org/project/opencv-python/) (Computer vision library)
 
-- [gensim](https://anaconda.org/anaconda/h5py) 
+- [pygame](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame) 
 
-- [pysam](https://anaconda.org/bioconda/pysam) >= 0.9.1.4
-
-- [pybigwig](https://anaconda.org/bioconda/pybigwig)
+- [ffmpeg](https://github.com/kkroening/ffmpeg-python) 
 
 # Description of the code:
 
