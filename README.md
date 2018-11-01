@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- [opencv-python](https://pypi.org/project/opencv-python/) (Computer vision library)
+- [opencv-python](https://pypi.org/project/opencv-python/) 
 
 - [pygame](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame) 
 
